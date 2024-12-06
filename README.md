@@ -17,3 +17,4 @@ python setup.py install
 The following programs are included in FemSuite:
 
 - `femtorrent`: A simple BitTorrent client.
+- `femscript`: A scripting language.
